@@ -1,1 +1,1 @@
-# employee-salary-prediction
+# Regression models for predicting house rent
