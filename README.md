@@ -28,12 +28,9 @@ The dataset used in this project ( `usa_housing_dataset.csv` ) contains informat
 
 The repository contains the following files:
 
-*   `usa_housing_dataset.csv`: The dataset used for training and evaluation.
 *   `house_price_model.ipynb`: A Jupyter Notebook containing the code for data preprocessing, model training, hyperparameter tuning, and evaluation.
 *   `house_price_model.pkl`: A saved (pickled) version of the best-performing trained model (Random Forest).
 *   `README.md`: This file, providing an overview of the project.
-*   `requirements.txt`: A list of Python packages required to run the code.
-*   `LICENSE` (Optional): The license under which the project is distributed.
 
 ## Dependencies
 
